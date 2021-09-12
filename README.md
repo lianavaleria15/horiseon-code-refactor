@@ -11,7 +11,7 @@ Refactored an existent code from Horiseon Company to meet the accessibility requ
 ## TO DO
 
 - [ ] use semantic HTML elements
-- [ ] check all links work correctly, fix the ones that don't work, links should take to right section on page
+- [x] check all links work correctly, fix the ones that don't work, links should take to right section on page
 - [ ] refactor css blocks into the css file
 - [ ] reduce duplication of style declaration
 - [ ] add high-level comments in html and css file
