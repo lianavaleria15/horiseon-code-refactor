@@ -18,4 +18,4 @@ Refactored an existent code from Horiseon Company to meet the accessibility requ
 - [ ] make images and links accessible
 - [ ] check HTML follows a logical structure, heading elements in sequential order
 - [ ] keep alt attribute descriptive of the image
-- [ ] title element written concise
+- [x] title element written concise
