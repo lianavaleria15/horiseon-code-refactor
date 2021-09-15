@@ -1,4 +1,4 @@
-# Horiseon-code-refactor
+# Horiseon - code refactor
 
 Refactored an existent code from Horiseon Company to meet the accessibility requirements.
 
@@ -23,6 +23,7 @@ In this project I refactored an existent code for Horiseon's Marketing Agency la
 - reduced duplication of style declaration by applying the class group property
 - restructured the CSS elements declaration order to follow the structure of the HTML page
 - added high-level comments
+- used child selectors and descendent combinators to target specific HTML elements
 
 ## Link to deployed application
 

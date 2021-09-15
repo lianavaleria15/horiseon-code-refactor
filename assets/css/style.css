@@ -80,6 +80,8 @@ p {
   float: right;
   margin-left: 25px;
 }
+
+/* style main tag sections here*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -136,8 +138,8 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-/*main section styling here*/
 
+/*styling footer here*/
 .footer {
   padding: 30px;
   clear: both;
