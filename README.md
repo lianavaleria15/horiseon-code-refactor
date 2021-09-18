@@ -27,7 +27,7 @@ In this project I refactored an existent code for Horiseon's Marketing Agency la
 
 ## Link to deployed application
 
-Click [here]() to visit the deployed application on GitHub pages.
+Click [here](https://lianavaleria15.github.io/horiseon-code-refactor/) to visit the deployed application on GitHub pages.
 
 ## Screenshot of the refactored webpage
 
