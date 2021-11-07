@@ -32,7 +32,7 @@ p {
   color: #d9dcd6;
 }
 
-.header nav {
+.navbar {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -40,11 +40,11 @@ p {
   font-size: 20px;
 }
 
-.header * ul {
+.list-container {
   list-style-type: none;
 }
 
-.header * li {
+.list-container li {
   display: inline-block;
   margin-left: 25px;
 }
